@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Offline Signature Verification (Python & MATLAB)"
+abstract: "Writer-dependent offline signature verification from a few genuine references using HOG, LBP and global shape features with a reference-adaptive distance threshold, in Python and MATLAB."
+type: software
+authors:
+  - family-names: Palta
+    given-names: Olcay
+    orcid: "https://orcid.org/0000-0002-7496-2101"
+    affiliation: "Bitlis Eren University, Electronics and Automation"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-31"
+repository-code: "https://github.com/olcaypalta/signature-verification"
+keywords:
+  - signature verification
+  - biometrics
+  - HOG
+  - LBP
+  - forgery detection
+  - MATLAB
